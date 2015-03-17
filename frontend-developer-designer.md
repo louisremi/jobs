@@ -10,6 +10,7 @@ We’re now looking for a __full time Frontend Developer / Designer__ (freelance
 -- Expert in HTML5, CSS3 and JavaScript
 -- Knowledge of build tools such as Grunt, Gulp, Bower etc.
 -- Excellent communication skills and self-initiative
+-- Good understanding of software development for sites with unstable infrastructures
 -- Language Skills: fluent English
 -- Location: Berlin
 #### Nice-to-have 
