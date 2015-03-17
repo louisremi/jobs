@@ -15,11 +15,11 @@ We’re now looking for a __full time Frontend Developer / Designer__ (freelance
 - Strong knowledge of REST, JSON, XML
 - Strong knowledge of build tools such as Grunt, Gulp, Bower etc.
 - Good understanding of Git
+- Location: Berlin
 
 #### Nice-to-have
 - Knowledge of document–oriented databases, especially Apache CouchDB
 - Language Skills: fluent English
-- Location: Berlin (required)
 
 ### Your tasks
 
