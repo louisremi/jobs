@@ -23,7 +23,7 @@ We’re now looking for a __full time Frontend Developer / Designer__ (freelance
 -- Work closely with our Product Owners and Developers
 -- Working on existing products and developing new features
 
--### Sounds good to you? Contact us!
+### Sounds good to you? Contact us!
 If you’re interested, please contact us with a few short lines about yourself and your CV: lena.reinhard@ehealthnigeria.org.
--
--__We’re looking forward to hearing from you!__
+
+__We’re looking forward to hearing from you!__
