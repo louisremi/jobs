@@ -20,7 +20,7 @@ We’re currently looking for a __Product Owner__ (6 months, freelance, full tim
 #### Nice-to-have
 - Language Skills: German, Spanish and French
 
--### Your tasks
+### Your tasks
 
 - Develop the vision for products which support our software strategy for health system support and communicate this to the software team and stakeholders
 - Gather feature / product requirements from stakeholder input and define and prioritize these for the development team
@@ -32,4 +32,4 @@ We’re currently looking for a __Product Owner__ (6 months, freelance, full tim
 
 If you’re interested, please contact us with a few short lines about yourself and your CV: lena.reinhard@ehealthnigeria.org.
 
--__We’re looking forward to hearing from you!__
+__We’re looking forward to hearing from you!__
