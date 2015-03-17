@@ -1,4 +1,4 @@
-## Help fight ebola and strengthen health systems by writing awesome code!
+## Help fight Ebola and strengthen health systems by writing awesome code!
 
 We’re an American-Nigerian NGO specialising in the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the Ebola outbreak, help with post-outbreak measurements and support health in West Africa and Nigeria. Our international software development team of 27 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
@@ -14,10 +14,10 @@ We’re now looking for a __full time Frontend Developer / Designer__ (freelance
 - Expertise in HTML5, CSS3 and JavaScript
 - Strong knowledge of REST, JSON, XML
 - Strong knowledge of build tools such as Grunt, Gulp, Bower etc.
-- Good understanding of GIT
+- Good understanding of Git
 
 #### Nice-to-have
-- Knowledge of document databases, especially Apache CouchDB
+- Knowledge of document–oriented databases, especially Apache CouchDB
 - Language Skills: fluent English
 - Location: Berlin (required)
 
