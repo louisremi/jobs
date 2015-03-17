@@ -1,4 +1,4 @@
-## Help fight ebola and strengthen health systems by providing great User Experiences & writing code!
+## Help fight Ebola and strengthen health systems by providing great User Experiences & writing code!
 
 We’re an American-Nigerian NGO specialising in the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the Ebola outbreak, help with post-outbreak measures and generally support health in West Africa and Nigeria. Our international software development team of 27 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
