@@ -13,7 +13,7 @@ We’re now looking for a __full time Frontend Developer / Designer__ (freelance
 - Strong expertise in JavaScript and AngularJS
 - Expertise in HTML5, CSS3 and JavaScript
 - Strong knowledge of REST, JSON, XML
-- Strong knowledge with build tools and package managers (Grunt, Bower, npm)
+- Strong knowledge with build tools and package managers (Grunt, Gulp, Bower, npm)
 - Good understanding of Git and GitHub-based workflows
 - Language Skills: fluent English
 - Location: Berlin
